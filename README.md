@@ -1,1 +1,2 @@
 # SampleProject
+Adding project description.
